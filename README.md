@@ -9,6 +9,6 @@ Fun insights:
 
 3. Dirties countries 1: US(1st place) has more than double of the number of non_renewable source power plants than China (2nd place), and almost the total numbers in China, Brazil and Russia combined.
 
-4 Dirties counties 2: China has the most capacity in non_renewable source power plants. Closely 2nd place is US, which is almost 4 times the capacity of the 3rd place India.
+4. Dirties counties 2: China has the most capacity in non_renewable source power plants. Closely 2nd place is US, which is almost 4 times the capacity of the 3rd place India.
 
 Stack: plotly & seawborn for visualisation; pandas for data cleaning/wrangling
