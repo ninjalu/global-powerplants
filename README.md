@@ -1,5 +1,6 @@
 # global-powerplants
 EDA on global power plants data
+Update: Jupyter Notebook on Github no longer support Plotly graph. To see all graphs, please clone and re-run the notebook locally.
 
 Fun insights:
 
